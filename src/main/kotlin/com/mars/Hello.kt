@@ -1,12 +1,18 @@
 package com.mars
 
 fun main(args: Array<String>) {
-    val d = Dog()
-    d.weigh()
-    print(d.bark())
 
-    val c = Dog()
-    c.bark()
+
+    var age:Int
+
+    var weight = 66.6
+    var heigh = 1.7
+    var name = "mars"
+    var isEnroll = true
+
+
+
+
 }
 
 class Human{
